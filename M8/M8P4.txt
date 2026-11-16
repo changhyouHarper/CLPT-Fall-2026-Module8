@@ -1,0 +1,15 @@
+Drill
+5
+100
+Hammer
+2
+50
+Scissors
+5
+10
+Knife
+3
+7
+Widget
+10
+50

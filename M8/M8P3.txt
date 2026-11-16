@@ -1,0 +1,10 @@
+You
+100000
+Smith
+105000
+Robertson
+95000
+Iguodala 
+114000
+Kim
+99000
